@@ -1,4 +1,7 @@
 # Get Job ready - JavaScript Edition - Version 2.0
+
+## Deprecated - Updated 3.0 version available [here](./job-ready-javascript-edition-3.0.md)
+
 A guide primarily focused on Frontend development, but including just enough of an introduction to Backend to enable an understanding of the "entire process" to prepare for productive entry to a Full Stack team as a confident and capable Frontend Developer.
 
 - [Tier 0 - Prep](#tier-0---prep)
@@ -23,9 +26,9 @@ A guide primarily focused on Frontend development, but including just enough of 
 _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the rest of the guide as you progress through the other Tiers._
 - [ ]  Book: [College Algebra](https://openstax.org/details/books/college-algebra) or Course: [College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x) or thorough knowledge of Algebra.
 - [ ]  Book: [Precalculus](https://openstax.org/details/books/precalculus) or Course: [Precalculus](https://www.edx.org/course/precalculus-asux-mat170x) or [Khan Academy](https://www.khanacademy.org/math/precalculus) or thorough knowledge of Precalculus
-- [ ]  Course: [Try Git](https://try.github.io/levels/1/challenges/1) and/or How to not f-up your local files with Git [part1](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-1-e0756c88fd3c), [part2](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-2-fc4e243be02a) and [part 3](https://medium.com/chingu/how-to-not-f-up-your-local-files-with-git-part-3-bf03b27b6e64)
+- [ ]  Videos: [Git Videos](https://git-scm.com/videos) or Book: [Pro Git](https://git-scm.com/book/en/v2) or thorough knowledge of Git.
 - [ ]  Project: [JavaScript Interview Prep](https://www.hackerrank.com/chingu-challenge-9-javascript-prep) - sign up for this now and work through it alongside the rest of the guide.
-- [ ]  Project: take a quick read through the FAQs at the end of this document, particularly the helpful links, you'll want to reference them as you work through the guide.
+- [ ]  Project: take a quick read through the [FAQ for this guide](#faq-for-this-guide) at the end of this document, particularly the helpful links, you'll want to reference them as you work through the guide.
 
 ---
 
@@ -47,14 +50,14 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 - [ ]  Course: [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)  
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build a frontend-only application powered by data fetched from the API you chose. 
 - [ ]  Course: [Getting Sassy with CSS](http://www.sassshop.com/#/)
-- [ ]  Project: [100 Days of CSS](https://100dayscss.com/), scroll to the bottom of that page, beginning with #001, recreate the images, in CodePen. Start the first one now and set a goal of finishing as many as you can by the end of Tier 3. (Intent: Build a presence on CodePen as a proficient HTML/(S)CSS developer to add another online body of work alongside your growing GitHub profile.)
+- [ ]  Project: [100 Days of CSS](https://codepen.io/collection/AVPPQq/) in CodePen. Start one now and set a goal of finishing as many as you can by the end of Tier 3. Do them in any order you like. (Intent: Build a presence on CodePen as a proficient HTML/(S)CSS developer to add another online body of work alongside your growing GitHub profile.)
 - [ ]  Book: [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)  
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build a frontend-only application powered by data fetched from the API you chose.  
 ---
 
 ## Tier 2 - Add Complexity
-**Goal:** Become familiar with D3.js and Node.js to strengthen your proficiency with JavaScript by exploring how it's used in a Full Stack application.
-- [ ]  Course: [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) on MongoDB University (Sign up at the start of the Tier and then take the course when it becomes available)
+**Goal:** Become familiar with D3.js and React to strengthen your proficiency with JavaScript.
+- [ ]  Course: [CS50's Mobile App Development with React Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native)
 - [ ]  Course: [Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507)
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build a frontend-only application powered by data fetched from the API you chose.
 - [ ]  Project: Clone [this Admin template](http://rubix410.sketchpixy.com/ltr/dashboard) using React, Angular, or Vue
@@ -85,10 +88,10 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 ## Tier 4 - Wrap everything up and prep for interviews
 **Goal:** Interview with confidence.
 - [ ]  Project: Finish any questions you have remaining from   [JavaScript Interview Prep](https://www.hackerrank.com/chingu-challenge-9-javascript-prep)
-- [ ]  Project: Finish any of [100 Days of CSS](https://100dayscss.com/) you have yet to complete.
+- [ ]  Project: Finish any of [100 Days of CSS](https://codepen.io/collection/AVPPQq/) you have yet to complete.
 - [ ]  Project: Create and polish your Portfolio site.
 - [ ]  Project: Create and polish your Resume/CV.
-- [ ]  Project: [Cracking the Coding Interview](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview) on HackerRank
+- [ ]  Project: Study and complete all [The HackerRank Interview Preparation Kit](https://www.hackerrank.com/interview/interview-preparation-kit) on HackerRank
 - [ ]  Project: Continue honing your skills as you interview. Prioritize contributing to open source.
 ---
 ## What now?
